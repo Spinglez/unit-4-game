@@ -6,3 +6,13 @@ body {
 img {
   width: 5rem;
 }
+
+.numBox {
+  height: 10rem;
+  background: green;
+}
+
+.winBox {
+  height: 10rem;
+  background: blue;
+}
