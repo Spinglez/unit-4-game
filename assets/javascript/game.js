@@ -35,7 +35,7 @@ function setup(){
   $('#random').html('<h2>'+goalNum+'</h2>');
   $('#wins').html('Total Wins: ' + wins);
   $('#loss').html('Total Losses: ' + loss);
-  $('#score').html('<h2>'+guessNum+'</h2>');
+  $('#score').html('<h2 class="text-center">'+guessNum+'</h2>');
 }
 
 // begins the game and also starts it again after it is finished
